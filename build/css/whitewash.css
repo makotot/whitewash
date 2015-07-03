@@ -171,6 +171,13 @@ textarea {
     clip: rect(0 0 0 0) !important;
     position: absolute !important; } }
 
+/**
+ * whitewash
+ *
+ */
+a {
+  color: #4b81be; }
+
 ul, ol {
   list-style-type: none; }
 
