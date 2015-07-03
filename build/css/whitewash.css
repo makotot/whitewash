@@ -178,4 +178,4 @@ ul, ol {
   padding: 10px; }
 
 .ww-box-list--border-solid > li + li {
-  border: 1px solid #666; }
+  border-top: 1px solid #ddd; }
