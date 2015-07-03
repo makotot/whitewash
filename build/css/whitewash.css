@@ -183,6 +183,8 @@ ul, ol {
 
 .ww-box-list > li {
   padding: 10px; }
+  .ww-box-list > li:hover {
+    background-color: #fafafa; }
 
 .ww-box-list--border-solid > li + li {
   border-top: 1px solid #ddd; }

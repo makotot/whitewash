@@ -12,6 +12,10 @@
 
   > li  {
     padding: 10px;
+
+    &:hover {
+      background-color: #fafafa;
+    }
   }
 
 
