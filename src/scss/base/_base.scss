@@ -1,7 +1,13 @@
 @charset "utf-8";
 
 a {
-  color: #4b81be;
+  $color-link: #4b81be;
+
+  color: $color-link;
+
+  &:hover {
+    color: lighten($color-link, 25%);
+  }
 }
 
 ul, ol  {
