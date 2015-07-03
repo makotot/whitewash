@@ -30,6 +30,10 @@
     color: $color-title;
     font-size: $fs-title;
     font-weight: bold;
+
+    &:hover {
+      color: darken($color-title, 10%);
+    }
   }
 
   &__description  {
