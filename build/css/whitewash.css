@@ -179,3 +179,8 @@ ul, ol {
 
 .ww-box-list--border-solid > li + li {
   border-top: 1px solid #ddd; }
+
+.ww-box-list__title {
+  color: #444;
+  font-size: 18px;
+  font-weight: bold; }

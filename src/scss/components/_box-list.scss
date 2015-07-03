@@ -3,6 +3,10 @@
 .ww-box-list {
 
   $color-border: #ddd;
+  $color-title: #444;
+
+  $fs-title: 18px;
+
 
   > li  {
     padding: 10px;
@@ -14,5 +18,11 @@
     > li + li {
       border-top: 1px solid $color-border;
     }
+  }
+
+  &__title  {
+    color: $color-title;
+    font-size: $fs-title;
+    font-weight: bold;
   }
 }
