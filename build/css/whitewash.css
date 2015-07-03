@@ -1,6 +1,9 @@
 ul, ol {
   list-style-type: none; }
 
+.ww-box-list > li {
+  padding: 10px; }
+
 /*! sanitize.css | CC0 Public Domain | github.com/jonathantneal/sanitize.css */
 /*
  * Normalization
