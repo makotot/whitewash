@@ -3,7 +3,7 @@
 .ww-box-list {
 
   $color-border: #ddd;
-  $color-title: #444;
+  $color-title: #555;
   $color-desc: #777;
 
   $fs-title: 18px;
@@ -32,7 +32,7 @@
     font-weight: bold;
 
     &:hover {
-      color: darken($color-title, 10%);
+      color: darken($color-title, 15%);
     }
   }
 

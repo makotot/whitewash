@@ -178,7 +178,7 @@ textarea {
 a {
   color: #4b81be; }
   a:hover {
-    color: #39689d; }
+    color: #325c8a; }
 
 ul, ol {
   list-style-type: none; }
@@ -192,11 +192,11 @@ ul, ol {
   border-top: 1px solid #ddd; }
 
 .ww-box-list__title {
-  color: #444;
+  color: #555;
   font-size: 18px;
   font-weight: bold; }
   .ww-box-list__title:hover {
-    color: #2b2b2b; }
+    color: #2f2f2f; }
 
 .ww-box-list__description {
   color: #777;
