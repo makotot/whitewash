@@ -1,0 +1,3 @@
+[submodule "src/scss/vendors/sanitize"]
+	path = src/scss/vendors/sanitize
+	url = https://github.com/jonathantneal/sanitize.css.git

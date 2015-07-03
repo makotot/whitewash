@@ -1,0 +1,16 @@
+{
+  "name": "whitewash",
+  "version": "0.0.1",
+  "description": "ui",
+  "main": "index.js",
+  "scripts": {},
+  "author": "makotot",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-sass": "^1.0.0",
+    "jit-grunt": "^0.9.1",
+    "time-grunt": "^1.2.1"
+  }
+}
