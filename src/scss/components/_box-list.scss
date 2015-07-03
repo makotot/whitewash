@@ -4,8 +4,10 @@
 
   $color-border: #ddd;
   $color-title: #444;
+  $color-desc: #777;
 
   $fs-title: 18px;
+  $fs-desc: 12px;
 
 
   > li  {
@@ -25,4 +27,10 @@
     font-size: $fs-title;
     font-weight: bold;
   }
+
+  &__description  {
+    color: $color-desc;
+    font-size: $fs-desc;
+  }
 }
+
