@@ -1,9 +1,3 @@
-ul, ol {
-  list-style-type: none; }
-
-.ww-box-list > li {
-  padding: 10px; }
-
 /*! sanitize.css | CC0 Public Domain | github.com/jonathantneal/sanitize.css */
 /*
  * Normalization
@@ -176,3 +170,12 @@ textarea {
   [hidden~="screen"]:not(:active):not(:focus):not(:target) {
     clip: rect(0 0 0 0) !important;
     position: absolute !important; } }
+
+ul, ol {
+  list-style-type: none; }
+
+.ww-box-list > li {
+  padding: 10px; }
+
+.ww-box-list--border-solid > li + li {
+  border: 1px solid #666; }
