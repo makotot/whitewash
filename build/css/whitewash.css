@@ -183,6 +183,10 @@ a {
 ul, ol {
   list-style-type: none; }
 
+.ww-l-container {
+  max-width: 960px;
+  margin: 0 auto; }
+
 .ww-box-list > li {
   padding: 10px; }
   .ww-box-list > li:hover {
