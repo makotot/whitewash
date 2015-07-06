@@ -26,6 +26,10 @@
     }
   }
 
+  &--crack  {
+    padding: 0 10px;
+  }
+
   &__title  {
     color: $color-title;
     font-size: $fs-title;

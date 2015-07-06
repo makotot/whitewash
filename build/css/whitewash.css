@@ -191,6 +191,9 @@ ul, ol {
 .ww-box-list--border-solid > li + li {
   border-top: 1px solid #ddd; }
 
+.ww-box-list--crack {
+  padding: 0 10px; }
+
 .ww-box-list__title {
   color: #555;
   font-size: 18px;
