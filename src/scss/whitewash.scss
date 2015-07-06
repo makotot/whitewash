@@ -12,8 +12,10 @@
   "base/base";
 
 @import
-  "layouts/container";
+  "layouts/container",
+  "layouts/position";
 
 @import
-  "components/box-list";
+  "components/box-list",
+  "components/header-search-box";
 
