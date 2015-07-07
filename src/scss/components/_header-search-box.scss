@@ -11,8 +11,19 @@
   z-index: 1;
   text-align: center;
 
+  &__inner  {
+    display: table-cell;
+    height: 60px;
+    vertical-align: middle;
+  }
+
   &__input  {
+    width: 600px;
+    height: 40px;
     border: 1px solid #f4f4f4;
+
+    &:focus {
+    }
   }
 }
 

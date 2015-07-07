@@ -222,5 +222,11 @@ ul, ol {
   border-bottom: 1px solid #f4f4f4;
   z-index: 1;
   text-align: center; }
+  .ww-header-search-box__inner {
+    display: table-cell;
+    height: 60px;
+    vertical-align: middle; }
   .ww-header-search-box__input {
+    width: 600px;
+    height: 40px;
     border: 1px solid #f4f4f4; }
